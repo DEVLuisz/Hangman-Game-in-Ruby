@@ -1,0 +1,25 @@
+Ruby
+Python
+Jupyter Notebook
+Kotlin
+C Language
+Postgres
+Javascript
+Typescript
+Html
+Css
+Sass
+Golang
+React
+Expo
+Vue
+Svelte
+Angular
+Php
+Elixir
+Lua
+Bootstrap
+Jquery
+Bulma
+Tailwind
+Nest
